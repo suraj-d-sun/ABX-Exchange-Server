@@ -1,0 +1,100 @@
+[
+    {
+        "buySellIndicator": "B",
+        "price": 98,
+        "quantity": 30,
+        "sequenceNumber": 2,
+        "symbol": "MSFT"
+    },
+    {
+        "buySellIndicator": "S",
+        "price": 101,
+        "quantity": 20,
+        "sequenceNumber": 3,
+        "symbol": "MSFT"
+    },
+    {
+        "buySellIndicator": "B",
+        "price": 50,
+        "quantity": 40,
+        "sequenceNumber": 5,
+        "symbol": "AAPL"
+    },
+    {
+        "buySellIndicator": "S",
+        "price": 55,
+        "quantity": 30,
+        "sequenceNumber": 6,
+        "symbol": "AAPL"
+    },
+    {
+        "buySellIndicator": "S",
+        "price": 57,
+        "quantity": 20,
+        "sequenceNumber": 7,
+        "symbol": "AAPL"
+    },
+    {
+        "buySellIndicator": "S",
+        "price": -101,
+        "quantity": 15,
+        "sequenceNumber": 9,
+        "symbol": "AMZN"
+    },
+    {
+        "buySellIndicator": "B",
+        "price": -108,
+        "quantity": 20,
+        "sequenceNumber": 10,
+        "symbol": "AMZN"
+    },
+    {
+        "buySellIndicator": "B",
+        "price": -72,
+        "quantity": 10,
+        "sequenceNumber": 11,
+        "symbol": "META"
+    },
+    {
+        "buySellIndicator": "S",
+        "price": -57,
+        "quantity": 10,
+        "sequenceNumber": 14,
+        "symbol": "AMZN"
+    },
+    {
+        "buySellIndicator": "B",
+        "price": 100,
+        "quantity": 50,
+        "sequenceNumber": 1,
+        "symbol": "MSFT"
+    },
+    {
+        "buySellIndicator": "S",
+        "price": 102,
+        "quantity": 10,
+        "sequenceNumber": 4,
+        "symbol": "MSFT"
+    },
+    {
+        "buySellIndicator": "B",
+        "price": -106,
+        "quantity": 25,
+        "sequenceNumber": 8,
+        "symbol": "AMZN"
+    },
+    {
+        "buySellIndicator": "B",
+        "price": -73,
+        "quantity": 5,
+        "sequenceNumber": 12,
+        "symbol": "META"
+    },
+    {
+        "buySellIndicator": "S",
+        "price": -52,
+        "quantity": 15,
+        "sequenceNumber": 13,
+        "symbol": "META"
+    }
+]
